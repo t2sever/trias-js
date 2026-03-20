@@ -152,11 +152,6 @@ npm test
 npm run build
 ```
 
-## Notes
-
-- This repo includes the TRIAS XSD materials under [`TRIAS-main`](./TRIAS-main) for local reference while developing the client.
-- Public repositories should never commit real endpoint credentials. Use `.env.example` as a template only.
-
 ## License
 
 MIT
