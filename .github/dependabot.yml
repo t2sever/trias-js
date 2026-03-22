@@ -8,7 +8,7 @@ updates:
     commit-message:
       prefix: "deps"
     labels:
-      - "dependencies"
+      - "deps"
 
   - package-ecosystem: "github-actions"
     directory: "/"
@@ -18,4 +18,4 @@ updates:
     commit-message:
       prefix: "ci"
     labels:
-      - "dependencies"
+      - "deps"
